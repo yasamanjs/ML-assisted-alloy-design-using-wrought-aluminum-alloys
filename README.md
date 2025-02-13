@@ -19,6 +19,11 @@ Key highlights include:
 - Expanded dataset size and improved model robustness using web scraping techniques (**BeautifulSoup, Selenium**).
 - Validated model performance using **cross-validation**, **random seed testing**, and statistical methods (**t-tests**), with actionable insights from **feature importance analysis**.
 
+
+ ![image](https://github.com/user-attachments/assets/4c83ad6c-ae90-4409-ab9d-f78519319c77)
+Figure 2. Evaluation metrics of the developed ML models in predicting mechanical properties from compositions and tempers. a. The R2 metric of various ML models was developed for each of the six properties. The color bars show the average R2 from 100-seed experiments and the small bars show the variance. b. The R2 metric of RF models was developed for each of the six properties. c. The metric of Mean absolute percentage error (%) for RF models was developed for each of the six properties.
+
+
 ---
 
 ## Code Files
